@@ -1,9 +1,9 @@
-package com.wutsi.platform.msm
+package com.wutsi.platform.sms
 
-import com.wutsi.platform.msm.dto.SendMessageRequest
-import com.wutsi.platform.msm.dto.SendMessageResponse
-import com.wutsi.platform.msm.dto.SendVerificationRequest
-import com.wutsi.platform.msm.dto.SendVerificationResponse
+import com.wutsi.platform.sms.dto.SendMessageRequest
+import com.wutsi.platform.sms.dto.SendMessageResponse
+import com.wutsi.platform.sms.dto.SendVerificationRequest
+import com.wutsi.platform.sms.dto.SendVerificationResponse
 import feign.Headers
 import feign.Param
 import feign.RequestLine

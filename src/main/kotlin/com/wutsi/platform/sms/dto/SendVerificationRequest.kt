@@ -1,4 +1,4 @@
-package com.wutsi.platform.msm.dto
+package com.wutsi.platform.sms.dto
 
 import kotlin.String
 

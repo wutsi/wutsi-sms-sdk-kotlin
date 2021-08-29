@@ -1,4 +1,4 @@
-package com.wutsi.platform.msm
+package com.wutsi.platform.sms
 
 import com.fasterxml.jackson.databind.ObjectMapper
 import feign.RequestInterceptor

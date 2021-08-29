@@ -13,7 +13,7 @@ java -jar ${CODEGEN_JAR} sdk \
     -in ${API_URL} \
     -out . \
     -name ${API_NAME} \
-    -package com.wutsi.platform.msm \
+    -package com.wutsi.platform.sms \
     -jdk 11 \
     -github_user ${GITHUB_USER} \
     -github_project ${API_NAME}-sdk-kotlin

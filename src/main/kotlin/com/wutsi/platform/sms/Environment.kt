@@ -1,4 +1,4 @@
-package com.wutsi.platform.msm
+package com.wutsi.platform.sms
 
 import kotlin.String
 
