@@ -6,7 +6,7 @@
 
   <artifactId>wutsi-sms-sdk-kotlin</artifactId>
   <groupId>com.wutsi.platform.sms</groupId>
-  <version>1.0.9</version>
+  <version>1.0.10-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>wutsi-sms-sdk-kotlin</name>
@@ -54,7 +54,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/wutsi/wutsi-sms-sdk-kotlin.git</developerConnection>
-    <tag>wutsi-sms-sdk-kotlin-1.0.9</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
