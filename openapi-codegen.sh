@@ -1,7 +1,6 @@
 #/bin/sh
 
-CODEGEN_VERSION="0.0.53-SNAPSHOT"
-CODEGEN_JAR=~/wutsi-codegen/wutsi-codegen-${CODEGEN_VERSION}.jar
+CODEGEN_JAR=~/wutsi-codegen/wutsi-codegen.jar
 
 API_NAME=wutsi-sms
 API_URL=https://raw.githubusercontent.com/wutsi/wutsi-openapi/master/src/openapi/sms/v1/sms_api.yaml
