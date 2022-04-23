@@ -16,7 +16,7 @@
 
     <feign.version>11.8</feign.version>
     <javax-validation.version>2.0.1.Final</javax-validation.version>
-    <kotlin.version>1.6.20</kotlin.version>
+    <kotlin.version>1.6.21</kotlin.version>
   </properties>
 
   <dependencies>
